@@ -10,3 +10,5 @@ Key Features of the Fractal Tree:
 4. Branch Color and Thickness: Colors and thicknesses of the branches can be customized to enhance the visual appeal. Gradients can be applied to give a realistic look to the tree.
 
 5. Randomness: Adding a touch of randomness to the angles and lengths can make the tree look more natural and less symmetrical.
+
+![Screenshot 2024-07-07 151819](https://github.com/Charul-Tongaria/Fractral-Art-Tree/assets/109429009/136f0887-00c3-40cd-b42f-7c72c8393eb3)
